@@ -121,7 +121,7 @@ From [PortfolioProject-2].dbo.NashvilleHousing
 
 ---------------------------------------------------------------------------------
 
---Chnage Y and N to Yes and No in "Solid as Vacant" Field
+--Change Y and N to Yes and No in "Solid as Vacant" Field
 
 SELECT Distinct(SoldAsVacant), Count(SoldAsVAcant)
 From [PortfolioProject-2].dbo.NashvilleHousing
